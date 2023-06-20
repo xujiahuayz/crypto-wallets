@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T11:55:10.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HcDkHyxG99EZhF_filsX" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-20T11:56:48.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="czFDuN6VYKt__9aBA-NR" version="21.3.2" type="github" pages="3">
   <diagram id="36RqeXvSD2yGZV3YzJqm" name="taxonomy">
     <mxGraphModel dx="3790" dy="-5340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,6 +388,17 @@
         </mxCell>
         <mxCell id="2NB9mips-J0BPXf7Jl0w-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="-2157" y="1546" width="68" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zk76gKa_khCXCS5-Q5ff" name="ecc-parameters">
+    <mxGraphModel dx="2074" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KwJtEdK0IC2kGRIqUNnu-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;p = 2&lt;sup&gt;256&lt;/sup&gt; − 2&lt;sup&gt;32&lt;/sup&gt; − 2&lt;sup&gt;9&lt;/sup&gt; − 2&lt;sup&gt;8&lt;/sup&gt; − 2&lt;sup&gt;7&lt;/sup&gt; − 2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;− 2&lt;sup&gt;4&lt;/sup&gt; – 1&lt;br&gt;&amp;nbsp; &amp;nbsp;= 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F&lt;br&gt;a = 0&lt;br&gt;b = 7&lt;br&gt;G: xG = 0x79BE667EF9DCBBAC55A06295CE870B07029BFCDB2DCE28D959F2815B16F81798,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;yG = 0x483ADA7726A3C4655DA4FBFC0E1108A8FD17B448A68554199C47D08FFB10D4B8&lt;br&gt;n = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="670" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
