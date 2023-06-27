@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T13:00:27.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L09Nk74OKvQYHHvZ0ktS" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-27T13:57:23.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qlS8bTtehxftcXsvnJcz" version="21.5.0" type="github" pages="9">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="2074" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1179,6 +1179,17 @@
         </mxCell>
         <mxCell id="Tt1oMNwVoAioqEEytnau-10" value="Public Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="-2741.0000000000005" y="1988" width="75" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wCOVd3oYkAgFs-TwqFOK" name="turtle">
+    <mxGraphModel dx="2901" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FvvGtqgVV0oMFF0uFLZx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turtle-icon.svg/1280px-Turtle-icon.svg.png;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="30" width="214.63" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
