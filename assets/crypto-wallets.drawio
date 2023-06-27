@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T12:32:36.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-ikQcVV_g_WCdO5xlCjI" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-27T12:52:28.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9C-KGrbDmAc86BjhN7o-" version="21.5.0" type="github" pages="8">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="2074" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="36RqeXvSD2yGZV3YzJqm" name="taxonomy">
-    <mxGraphModel dx="-868" dy="-4506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1234" dy="-4707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,14 +462,26 @@
         <mxCell id="GwY5U1jHGwRrF2JgQNvW-25" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Brain wallet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="4971.5" y="5942.5" width="138.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tb7B_kHsOqJGrsSC8O3i-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+        <mxCell id="tb7B_kHsOqJGrsSC8O3i-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
           <mxGeometry x="3919.9100000000003" y="6439.25" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tb7B_kHsOqJGrsSC8O3i-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+        <mxCell id="tb7B_kHsOqJGrsSC8O3i-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
           <mxGeometry x="3919.9100000000003" y="6506" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tb7B_kHsOqJGrsSC8O3i-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+        <mxCell id="tb7B_kHsOqJGrsSC8O3i-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
           <mxGeometry x="4179" y="6444" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lRRU_o4KFAiiL8PwCMJf-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="4179" y="6504.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lRRU_o4KFAiiL8PwCMJf-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="4676.63" y="6423" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lRRU_o4KFAiiL8PwCMJf-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="4882.66" y="6423" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lRRU_o4KFAiiL8PwCMJf-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="4770" y="6473" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
