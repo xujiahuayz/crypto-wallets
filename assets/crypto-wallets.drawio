@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:00:47.362Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="KqurFmjFasQjZlrR_DvK" version="21.3.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-27T12:32:36.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-ikQcVV_g_WCdO5xlCjI" version="21.5.0" type="github" pages="8">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="36RqeXvSD2yGZV3YzJqm" name="taxonomy">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-868" dy="-4506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,68 +447,29 @@
         <mxCell id="Dvuu4yCtvVS3nF8p24eP-56" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Hot Wallets&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3691.84" y="6997.5" width="342" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+        <mxCell id="GwY5U1jHGwRrF2JgQNvW-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
           <mxGeometry x="3682.9100000000003" y="6504.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="3529" y="6438" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="3529" y="6510" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="3529" y="6606" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="3529" y="6677.75" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="4002.86" y="6517.12" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;eToro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;container=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GwY5U1jHGwRrF2JgQNvW-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;eToro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;container=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4018.1099999999997" y="6635.25" width="183.89" height="32.75" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="4002.86" y="6613" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="4523.1" y="6427.13" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="4706.13" y="6427.13" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-11" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="4620.72" y="6831" width="20.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-13" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3762" y="6457" width="28.57" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-15" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3762" y="6625" width="28.57" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-16" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3762" y="6673.25" width="28.57" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+        <mxCell id="GwY5U1jHGwRrF2JgQNvW-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
           <mxGeometry x="3682.9100000000003" y="6439.25" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="4950.21" y="5920" width="20.5" height="39" as="geometry" />
+        <mxCell id="GwY5U1jHGwRrF2JgQNvW-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
+          <mxGeometry x="4920.85" y="5923.29" width="68.41" height="68.41" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-19" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4799.129999999999" y="5912.5" width="28.57" height="20" as="geometry" />
+        <mxCell id="GwY5U1jHGwRrF2JgQNvW-25" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Brain wallet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="4971.5" y="5942.5" width="138.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
-          <mxGeometry x="4788.41" y="5941.5" width="50" height="50" as="geometry" />
+        <mxCell id="tb7B_kHsOqJGrsSC8O3i-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="3919.9100000000003" y="6439.25" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-22" value="mobile wallet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4935.46" y="5924.5" width="187.34" height="30" as="geometry" />
+        <mxCell id="tb7B_kHsOqJGrsSC8O3i-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="3919.9100000000003" y="6506" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-24" value="web wallet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4831.5" y="5907.5" width="87.34" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GwY5U1jHGwRrF2JgQNvW-25" value="brain wallet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4831.5" y="5951.5" width="87.34" height="30" as="geometry" />
+        <mxCell id="tb7B_kHsOqJGrsSC8O3i-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="4179" y="6444" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
