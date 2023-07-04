@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T13:42:15.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="A0cQLjmABFqXr9wRaY6H" version="21.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-04T14:55:06.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="29njMFDapJRpw1S7mQ1b" version="21.3.7" type="github" pages="9">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yxBh9NNTNNmj8gbcNvd5" name="mechanism">
-    <mxGraphModel dx="4640" dy="-550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3954" dy="-747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,7 +1158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3H0IGdj6jipg2d-Nd59T" name="attacks">
-    <mxGraphModel dx="4735" dy="-506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5428" dy="-400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1272,8 +1272,8 @@
         <mxCell id="5PpZ6DrLhypklFnb1E4_-4" value="&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;Phishing&lt;br&gt;Attacker&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2233" y="1530.6399999999999" width="69" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5PpZ6DrLhypklFnb1E4_-8" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot; color=&quot;#990000&quot;&gt;Connection&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Established&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" parent="1" vertex="1">
-          <mxGeometry x="-2290" y="1910" width="85" height="41" as="geometry" />
+        <mxCell id="5PpZ6DrLhypklFnb1E4_-8" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#990000&quot;&gt;Malicious&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#990000&quot;&gt;Connection&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" parent="1" vertex="1">
+          <mxGeometry x="-2289" y="1910" width="84" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5PpZ6DrLhypklFnb1E4_-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#E51400;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2222.5" y="1563.6399999999999" width="42" height="62" as="geometry" />
@@ -1346,8 +1346,8 @@
             <mxPoint x="20" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zGL6KMlA5It6x2jj1OM-5" value="&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#990000&quot;&gt;Connection&lt;br&gt;Established&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=40;" parent="1" vertex="1">
-          <mxGeometry x="-2309.5" y="1685" width="87" height="40" as="geometry" />
+        <mxCell id="5zGL6KMlA5It6x2jj1OM-5" value="&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#990000&quot;&gt;Malicious&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#990000&quot;&gt;Connection&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=40;" parent="1" vertex="1">
+          <mxGeometry x="-2307.5" y="1685" width="84" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5ykPVM2rW4DSt5BkHBJp-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2885" y="1573.0800000000002" width="100" height="70" as="geometry" />
@@ -1569,15 +1569,18 @@
             <mxPoint x="-27" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_bsVgWUEIMHoUyECUbKf-1" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;b&gt;&lt;u&gt;Yebo Feng Research, [4 Jul 2023 at 07:48:18]:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Hi Yimikz, I have some suggestions&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; min-height: 15px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Connection established -&amp;gt; Malicious connection&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; min-height: 15px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;From the sender to the blockchain: Transaction request&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; min-height: 15px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;from the blockchain to the sender, add an arrow: Transaction confirmation&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; min-height: 15px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;From the receiver to the blockchain: Transaction query&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; min-height: 15px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;from the blockchain to the receiver, add an arrow: Query result&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3453" y="1610" width="440" height="347" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wCOVd3oYkAgFs-TwqFOK" name="turtle">
-    <mxGraphModel dx="2901" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FvvGtqgVV0oMFF0uFLZx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turtle-icon.svg/1280px-Turtle-icon.svg.png;flipV=0;flipH=0;" vertex="1" parent="1">
+        <mxCell id="FvvGtqgVV0oMFF0uFLZx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turtle-icon.svg/1280px-Turtle-icon.svg.png;flipV=0;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="30" width="97.56" height="50" as="geometry" />
         </mxCell>
       </root>
