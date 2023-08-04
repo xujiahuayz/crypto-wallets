@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T08:47:14.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S-u2co9Kafv15DgXytpO" version="21.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-04T08:49:30.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CLuQMkPR-cCmxNR1_0od" version="21.6.6" type="github" pages="10">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="36RqeXvSD2yGZV3YzJqm" name="taxonomy">
-    <mxGraphModel dx="-4267" dy="-5206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-3473" dy="-4754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,7 +406,7 @@
           <mxGeometry x="9546.560000000001" y="7824.5" width="648.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-104" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Smart Card&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" parent="1" vertex="1">
-          <mxGeometry x="9436.25" y="7445" width="353.75" height="30" as="geometry" />
+          <mxGeometry x="9409.13" y="7454" width="353.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-114" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;opacity=50;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="9500" y="7625" width="706" height="176" as="geometry" />
@@ -418,7 +418,7 @@
           <mxGeometry x="9856" y="7705" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-117" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Air-gapped&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" parent="1" vertex="1">
-          <mxGeometry x="9742.25" y="7652" width="337.75" height="30" as="geometry" />
+          <mxGeometry x="9702.13" y="7650" width="337.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-124" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;opacity=50;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="9960" y="7437" width="508" height="176" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry x="10250" y="7517" width="219.74" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-127" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;USB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" parent="1" vertex="1">
-          <mxGeometry x="10038.25" y="7445" width="265.5" height="30" as="geometry" />
+          <mxGeometry x="10093" y="7454" width="265.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-128" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Samourai&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;container=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="9526.720000000001" y="8110" width="266.53" height="80" as="geometry" />
@@ -493,7 +493,7 @@
           <mxGeometry x="8042.25" y="7621" width="1135.49" height="248" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-148" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;Smart Contract Wallets&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=45;" parent="1" vertex="1">
-          <mxGeometry x="8258.68" y="7810" width="765.63" height="30" as="geometry" />
+          <mxGeometry x="8227.18" y="7810" width="765.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-149" value="&lt;font style=&quot;font-size: 58px;&quot;&gt;Safe&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;container=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="8119.999999999999" y="7690" width="300" height="80" as="geometry" />
