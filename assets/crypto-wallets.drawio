@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T07:42:47.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="jpRp-ifx9NDYPVJNsTUX" version="21.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-04T08:47:14.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S-u2co9Kafv15DgXytpO" version="21.6.6" type="github" pages="10">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
-    <mxGraphModel dx="711" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,7 +1158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3H0IGdj6jipg2d-Nd59T" name="attacks">
-    <mxGraphModel dx="3903" dy="920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4466" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1306,7 +1306,7 @@
             <mxPoint x="-1759" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BPaEVw65RgLZltn6WUV8-1" value="&lt;span style=&quot;caret-color: rgb(2, 95, 3); color: rgb(2, 95, 3); font-size: 20px; font-weight: 700;&quot;&gt;Key Stored&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CiO1ePC6HEStKjbu_Kpm-40">
+        <mxCell id="BPaEVw65RgLZltn6WUV8-1" value="&lt;span style=&quot;caret-color: rgb(2, 95, 3); color: rgb(2, 95, 3); font-size: 20px; font-weight: 700;&quot;&gt;Key Stored&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CiO1ePC6HEStKjbu_Kpm-40" vertex="1" connectable="0">
           <mxGeometry x="-0.0863" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1406,7 +1406,7 @@
         <mxCell id="CiO1ePC6HEStKjbu_Kpm-59" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#E51400;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1303" y="411.5" width="42" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="CiO1ePC6HEStKjbu_Kpm-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="CiO1ePC6HEStKjbu_Kpm-63">
+        <mxCell id="CiO1ePC6HEStKjbu_Kpm-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="CiO1ePC6HEStKjbu_Kpm-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1308" y="448" as="sourcePoint" />
             <mxPoint x="-1467" y="450" as="targetPoint" />
@@ -1442,8 +1442,8 @@
         <mxCell id="CiO1ePC6HEStKjbu_Kpm-67" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;WALLET&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;INFRASTRUCTURE&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CiO1ePC6HEStKjbu_Kpm-65" vertex="1">
           <mxGeometry x="37.60502994011979" y="3.08" width="399" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="wOQTHO1bB3ffWQfCJvz0-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 25px;&quot;&gt;Wallet&#39;s&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Key&lt;br&gt;Management&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1841.5" y="329.00000000000045" width="169" height="71" as="geometry" />
+        <mxCell id="wOQTHO1bB3ffWQfCJvz0-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 25px;&quot;&gt;Wallet&#39;s&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Key&lt;br&gt;Management&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1845" y="327.9800000000005" width="169" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
