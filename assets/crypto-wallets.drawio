@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T08:50:36.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="x5vfZZ88Ys3_DU8Yhs8g" version="21.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-04T09:20:03.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="hk1-gYcITvPdJGxHtryj" version="21.6.6" type="github" pages="10">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
-    <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,7 +1158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3H0IGdj6jipg2d-Nd59T" name="attacks">
-    <mxGraphModel dx="4466" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3903" dy="920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1445,6 +1445,9 @@
         <mxCell id="wOQTHO1bB3ffWQfCJvz0-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 25px;&quot;&gt;Wallet&#39;s&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Key&lt;br&gt;Management&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1845" y="327.9800000000005" width="169" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="RhAhX0HDLwxmtEAv1fhw-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 14px; text-align: center;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 25px;&quot;&gt;Receiver&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1257" y="679.5" width="121" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1460,7 +1463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="56RPIOrzYMEdgCd3jacc" name="attacks-old">
-    <mxGraphModel dx="3877" dy="-801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4019" dy="-709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
