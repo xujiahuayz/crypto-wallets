@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T15:42:36.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="ZWLJTWy0Wv9oia7ZsojQ" version="22.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:13:29.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2LH1Hl3euF2hIm-4MpxT" version="22.1.18" type="github" pages="11">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GQH5DEJ2hiTOL--fSEWX" name="hash-function">
-    <mxGraphModel dx="1126" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2140,6 +2140,91 @@
           <mxGeometry x="-0.0266" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oQBTz6ARYjrHHY8tASmD" name="Attacks Methodology">
+    <mxGraphModel dx="1444" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="197" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="380" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-1" target="GCkT6csJgaHmgW1h08wJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Attack Vectors&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-2" target="GCkT6csJgaHmgW1h08wJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Data Flow Diagrams&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-3" target="GCkT6csJgaHmgW1h08wJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;STRIDE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-9" target="GCkT6csJgaHmgW1h08wJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-9" target="GCkT6csJgaHmgW1h08wJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Attack Tree&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-14" target="GCkT6csJgaHmgW1h08wJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Security Requirements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-18" target="GCkT6csJgaHmgW1h08wJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Fault Tree Analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-20" target="GCkT6csJgaHmgW1h08wJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="340" />
+              <mxPoint x="650" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CVSS and other risk assessment factors&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GCkT6csJgaHmgW1h08wJ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="289.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="160" />
+              <mxPoint x="810" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Security Requirements Result&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Risks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Threat Model&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.25" y="379" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCkT6csJgaHmgW1h08wJ-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Risk Analysis&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="659.75" y="379" width="137.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
