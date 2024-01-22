@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T08:45:18.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="W80cHe-Y2tpj1u_R0W6O" version="22.1.21" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-01-22T10:10:52.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g96CRhzZCN_tDi7XoV0i" version="22.1.21" type="github" pages="13">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2555,20 +2555,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jc9ZsjOD7lKacP7wfjte" name="attack-tree">
-    <mxGraphModel dx="3497" dy="2607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2835" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="enC0brrtan-r1Lo7jEM_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Code Reuse&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Fake Biometrics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Brute-force&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Fault Injection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-5" target="enC0brrtan-r1Lo7jEM_-9">
@@ -2579,7 +2579,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-5" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Removable Media&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-6" target="enC0brrtan-r1Lo7jEM_-9">
@@ -2590,7 +2590,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-6" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Supply Chain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-7" target="enC0brrtan-r1Lo7jEM_-9">
@@ -2601,7 +2601,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Rogue AP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-8" target="enC0brrtan-r1Lo7jEM_-9">
@@ -2612,10 +2612,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Social Engineering&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-9" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Install Keylogger&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-14" target="enC0brrtan-r1Lo7jEM_-3">
@@ -2650,7 +2650,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-14" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Bypass OS auth&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-15" target="enC0brrtan-r1Lo7jEM_-3">
@@ -2685,10 +2685,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-15" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Bypass Wallet auth&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-23" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Execute Keylogger&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-24" target="enC0brrtan-r1Lo7jEM_-9">
@@ -2707,7 +2707,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-24" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Keylogger Malware&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-447" y="-695" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-25" target="enC0brrtan-r1Lo7jEM_-14">
@@ -2726,10 +2726,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-25" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Obtain Secret Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="-695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-26" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Shoulder-surfing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="-695" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-27" target="enC0brrtan-r1Lo7jEM_-25">
@@ -2748,13 +2748,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-27" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Observe Output Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-28" target="enC0brrtan-r1Lo7jEM_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-28" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Eavesdrop Input Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-447" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-37" target="enC0brrtan-r1Lo7jEM_-28">
@@ -2773,13 +2773,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-37" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Obtain Private Key&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="enC0brrtan-r1Lo7jEM_-41" target="enC0brrtan-r1Lo7jEM_-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enC0brrtan-r1Lo7jEM_-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enC0brrtan-r1Lo7jEM_-41" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Crypto Theft&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enC0brrtan-r1Lo7jEM_-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
