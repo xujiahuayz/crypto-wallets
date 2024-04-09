@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T13:03:02.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="F1IBvHwpP2QD25e8W0H3" version="24.2.2" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-04-09T13:06:40.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="Ycfdzgel5P5DroAUToLc" version="24.2.2" type="github" pages="23">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="1136" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7334,7 +7334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nnEeKzqNeiezdvM6iY6X" name="formalization">
-    <mxGraphModel dx="747" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="358" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7437,9 +7437,9 @@
         <mxCell id="T_89nriNjN3IYsmyop8l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#039905;" edge="1" parent="1" source="T_89nriNjN3IYsmyop8l-22" target="T_89nriNjN3IYsmyop8l-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T_89nriNjN3IYsmyop8l-34" value="&lt;font color=&quot;#039905&quot;&gt;&lt;b&gt;BROADCAST&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T_89nriNjN3IYsmyop8l-33">
+        <mxCell id="T_89nriNjN3IYsmyop8l-34" value="&lt;font color=&quot;#039905&quot;&gt;&lt;b&gt;Broadcast&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T_89nriNjN3IYsmyop8l-33">
           <mxGeometry x="-0.0286" relative="1" as="geometry">
-            <mxPoint y="9" as="offset" />
+            <mxPoint x="9" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T_89nriNjN3IYsmyop8l-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;arcSize=0;" vertex="1" parent="1">
