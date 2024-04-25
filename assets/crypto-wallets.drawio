@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T10:31:01.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="qscbd8Sts0LZ-4dFVMtY" version="24.3.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-04-25T10:32:24.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="KhiWDgUXjN-eEUnH6Po9" version="24.3.0" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9105,7 +9105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GFL2ebSVOe9sGZoVEH5E" name="hardware">
-    <mxGraphModel dx="3377" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3535" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9235,13 +9235,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-91" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0050EF;fillColor=#0050EF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="1">
-          <mxGeometry x="-1928.2413036284672" y="1350.6821069293733" width="23.906863984190096" height="35.40707724991149" as="geometry" />
+          <mxGeometry x="-1928.24" y="1350.68" width="18.24" height="35.41" as="geometry" />
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ph8LEtRT3pJM2bk5HzJ-93" target="9ph8LEtRT3pJM2bk5HzJ-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1984.8208817243835" y="1333.6867098494158" />
-              <mxPoint x="-1913.1002897718133" y="1333.6867098494158" />
+              <mxPoint x="-1985" y="1334" />
+              <mxPoint x="-1920" y="1334" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -9270,7 +9270,7 @@
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-98" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Generate&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Key Pairs&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="9ph8LEtRT3pJM2bk5HzJ-97">
           <mxGeometry x="-0.3821" y="-2" relative="1" as="geometry">
-            <mxPoint x="-20" y="24" as="offset" />
+            <mxPoint x="6" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Online&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#039905;" vertex="1" parent="1">
