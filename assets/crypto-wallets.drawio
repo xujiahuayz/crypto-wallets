@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T10:30:43.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="DPDj67peKio0tnHndjbk" version="24.3.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-04-25T10:31:01.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="qscbd8Sts0LZ-4dFVMtY" version="24.3.0" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9298,7 +9298,7 @@
           <mxGeometry x="-0.7300067532388681" y="9.255333566401987" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-113" value="&lt;span style=&quot;caret-color: rgb(0, 102, 204); white-space: nowrap; font-size: 14px;&quot;&gt;BLOCKCHAIN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-1609.800170459082" y="1102.78" width="201.33952095808394" height="36.93600000000001" as="geometry" />
+          <mxGeometry x="-1580.31" y="1102.77" width="131.54" height="36.94" as="geometry" />
         </mxCell>
         <mxCell id="0mUnZdpAWSN6GUVKENeS-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#0066CC;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1740.0021945446608" y="1155.9431820548602" width="33.46960957786614" height="43.90477578989025" as="geometry" />
