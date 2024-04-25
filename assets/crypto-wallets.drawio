@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T10:37:47.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="27Nv85APgsvZ4Z0Nfc7j" version="24.3.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-04-25T10:49:55.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="dftgafkJDLeDiA9oL0bi" version="24.3.0" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9105,7 +9105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GFL2ebSVOe9sGZoVEH5E" name="hardware">
-    <mxGraphModel dx="3099" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3228" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9303,6 +9303,17 @@
         </mxCell>
         <mxCell id="0mUnZdpAWSN6GUVKENeS-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#0066CC;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1715.4721945446609" y="1155.9431820548602" width="33.46960957786614" height="43.90477578989025" as="geometry" />
+        </mxCell>
+        <mxCell id="0mUnZdpAWSN6GUVKENeS-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1.003;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.012;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0066CC;curved=0;strokeWidth=2;" edge="1" parent="1" source="9ph8LEtRT3pJM2bk5HzJ-68" target="9ph8LEtRT3pJM2bk5HzJ-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1720" y="1500" as="sourcePoint" />
+            <mxPoint x="-1670" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mUnZdpAWSN6GUVKENeS-10" value="&lt;font color=&quot;#0066cc&quot;&gt;Physical or Bluetooth Connection&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0mUnZdpAWSN6GUVKENeS-9">
+          <mxGeometry x="0.1446" y="-1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
