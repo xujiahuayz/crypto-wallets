@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T16:39:25.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="r3ZbQEL4NXpK_bH_66Wm" version="24.3.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-04-25T16:40:45.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="BNIrKG4O9KWGALcUb8Lk" version="24.3.0" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9436,7 +9436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GFL2ebSVOe9sGZoVEH5E" name="hardware">
-    <mxGraphModel dx="3601" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5468" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9619,15 +9619,6 @@
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-107" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=-180;dx=646;dy=358;fillColor=default;dashed=1;strokeWidth=4;strokeColor=#039905;" vertex="1" parent="1">
           <mxGeometry x="-2246.0913351104164" y="496.43548622248136" width="35.06340051014548" height="27.617520254930966" as="geometry" />
-        </mxCell>
-        <mxCell id="9ph8LEtRT3pJM2bk5HzJ-110" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1580.31" y="1385.35" width="265.8" height="46.17" as="geometry" />
-        </mxCell>
-        <mxCell id="9ph8LEtRT3pJM2bk5HzJ-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#0066CC;strokeWidth=3;" vertex="1" parent="9ph8LEtRT3pJM2bk5HzJ-110">
-          <mxGeometry x="-338" y="-607.53" width="154" height="36.94" as="geometry" />
-        </mxCell>
-        <mxCell id="9ph8LEtRT3pJM2bk5HzJ-112" value="&lt;font size=&quot;1&quot; color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 102, 204);&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;CLIENT SOFTWARE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9ph8LEtRT3pJM2bk5HzJ-110">
-          <mxGeometry x="-341.69000675323883" y="-601.744666433598" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ph8LEtRT3pJM2bk5HzJ-113" value="&lt;span style=&quot;caret-color: rgb(0, 102, 204); white-space: nowrap; font-size: 14px;&quot;&gt;BLOCKCHAIN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-1903.57" y="491.77" width="131.54" height="36.94" as="geometry" />
