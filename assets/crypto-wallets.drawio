@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T16:54:11.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="1nx6w1uzX2jHBsoD420K" version="24.3.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-04-28T05:08:21.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="lv-iGxuqCXMFTDHNUBeP" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
-    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GQH5DEJ2hiTOL--fSEWX" name="hash-function">
-    <mxGraphModel dx="1045" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fBlK7l2prTsJt0ll-LrP" name="digital-signature">
-    <mxGraphModel dx="1045" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="36RqeXvSD2yGZV3YzJqm" name="taxonomy">
-    <mxGraphModel dx="-3917" dy="-9963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1975" dy="-8661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,10 +451,10 @@
           <mxGeometry x="7139.939999999999" y="12450" width="376.53" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-134" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
-          <mxGeometry x="7339" y="10623" width="100" height="100" as="geometry" />
+          <mxGeometry x="7171.87" y="10640" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cmqR2VDgh2ofJEkPEw-d-135" value="&lt;font style=&quot;font-size: 55px;&quot;&gt;Brain Wallet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=37;" parent="1" vertex="1">
-          <mxGeometry x="7409" y="10658" width="360" height="30" as="geometry" />
+        <mxCell id="cmqR2VDgh2ofJEkPEw-d-135" value="&lt;font style=&quot;font-size: 55px;&quot;&gt;Mnemonic Phrase&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=37;" parent="1" vertex="1">
+          <mxGeometry x="7220" y="10670" width="549" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmqR2VDgh2ofJEkPEw-d-136" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/brain-128.png" parent="1" vertex="1">
           <mxGeometry x="5493" y="11589" width="100" height="100" as="geometry" />
