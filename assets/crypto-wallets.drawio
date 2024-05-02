@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T16:34:21.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="b5Nj8Q094uTvTdLLvktk" version="24.3.1" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-05-02T00:21:20.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="1kjBQM73c9Ov3IvC-YUL" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9221,7 +9221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nnEeKzqNeiezdvM6iY6X" name="formalization">
-    <mxGraphModel dx="2515" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9621,7 +9621,7 @@
             <mxPoint x="713" y="-141.59999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PjNSPEU_ovDqADyGWDUI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=1;rotation=90;" parent="1" vertex="1">
+        <mxCell id="PjNSPEU_ovDqADyGWDUI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="282.51" y="72.23" width="139.93" height="158.92" as="geometry" />
         </mxCell>
         <mxCell id="PjNSPEU_ovDqADyGWDUI-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=1;rotation=90;" parent="1" vertex="1">
