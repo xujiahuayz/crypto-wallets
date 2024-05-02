@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T01:38:15.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="T9YtPc5DblBMwxIQqu0u" version="24.3.1" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-05-02T01:40:42.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="AtsQMuI8M88cvpPk6vwh" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9221,7 +9221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nnEeKzqNeiezdvM6iY6X" name="formalization">
-    <mxGraphModel dx="2212" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2754" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9699,7 +9699,7 @@
         </mxCell>
         <mxCell id="3v9D9dcUkdEg-umASBfo-2" value="Provide Credentials" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7wT0hMBE1DBhs0rqHrHy-77" vertex="1" connectable="0">
           <mxGeometry x="-0.1103" relative="1" as="geometry">
-            <mxPoint x="26" as="offset" />
+            <mxPoint x="21" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7wT0hMBE1DBhs0rqHrHy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.544;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PjNSPEU_ovDqADyGWDUI-101" target="PjNSPEU_ovDqADyGWDUI-15" edge="1">
@@ -10641,7 +10641,7 @@
         </mxCell>
         <mxCell id="hhN8UHRZ-5K2YaEL6iYG-6" value="Sign Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhN8UHRZ-5K2YaEL6iYG-3">
           <mxGeometry x="0.0441" y="1" relative="1" as="geometry">
-            <mxPoint x="31" as="offset" />
+            <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhN8UHRZ-5K2YaEL6iYG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.415;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PjNSPEU_ovDqADyGWDUI-101" target="PjNSPEU_ovDqADyGWDUI-3">
