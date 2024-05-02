@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T11:48:40.274Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="DZOj232i7g_PmfhsA42l" version="24.3.1" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-05-02T11:49:02.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="-XFC-8oo5_KC0YuG5nxs" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8563,7 +8563,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hhuoqKmkDlbkUQiF6IVw" name="evolution">
-    <mxGraphModel dx="1723" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8583,7 +8583,7 @@
           <mxGeometry x="-121" y="167" width="70" height="78" as="geometry" />
         </mxCell>
         <mxCell id="aWqtHbZruIFMeBNKgsP5-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.detected_software" vertex="1" parent="1">
-          <mxGeometry x="-110" y="172" width="50" height="50" as="geometry" />
+          <mxGeometry x="-110" y="172" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="aWqtHbZruIFMeBNKgsP5-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/office-icons-17/512/ilustracoes_04-14-128.png" vertex="1" parent="1">
           <mxGeometry x="-213" y="265.78999999999996" width="60" height="60" as="geometry" />
@@ -8739,7 +8739,7 @@
           <mxGeometry x="-47" y="205.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EFHASITYbb-Xdvw_XBtS-35" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Desktop&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Wallets&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-112.86" y="213" width="53.72" height="30" as="geometry" />
+          <mxGeometry x="-112.86" y="214" width="53.72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EFHASITYbb-Xdvw_XBtS-36" value="Bitcoin&lt;div&gt;Emergence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-18.5" y="150" width="84.5" height="30" as="geometry" />
