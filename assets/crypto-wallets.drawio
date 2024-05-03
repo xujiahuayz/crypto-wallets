@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T15:11:36.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="qYCEmqoq1b0IvQ4A9sPN" version="24.3.1" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-05-03T15:12:53.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="39dFV6jjkD_3iQGCDHrW" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8567,13 +8567,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aWqtHbZruIFMeBNKgsP5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="aWqtHbZruIFMeBNKgsP5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#FFB570;opacity=65;" vertex="1" parent="1">
           <mxGeometry x="-312.17" y="298.66" width="308.11" height="141.79" as="geometry" />
         </mxCell>
         <mxCell id="aWqtHbZruIFMeBNKgsP5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-222" y="267.75" width="120" height="88.04" as="geometry" />
         </mxCell>
-        <mxCell id="aWqtHbZruIFMeBNKgsP5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#D8E7F5;" vertex="1" parent="1">
+        <mxCell id="aWqtHbZruIFMeBNKgsP5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#67AB9F;opacity=65;" vertex="1" parent="1">
           <mxGeometry x="-164.13" y="294.75" width="305.21" height="152.53" as="geometry" />
         </mxCell>
         <mxCell id="aWqtHbZruIFMeBNKgsP5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;dashPattern=8 8;rotation=90;fillColor=#EEEEEE;" vertex="1" parent="1">
@@ -8763,7 +8763,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nnEeKzqNeiezdvM6iY6X" name="formalization">
-    <mxGraphModel dx="747" dy="465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
