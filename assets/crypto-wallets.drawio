@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T05:46:16.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="Zr0OZ4w046oHOxKZ_eya" version="24.3.1" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-05-04T05:56:10.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="Rls_vfT6TemLELVgN9nA" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="896" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8954,7 +8954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GFL2ebSVOe9sGZoVEH5E" name="hardware">
-    <mxGraphModel dx="358" dy="223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
