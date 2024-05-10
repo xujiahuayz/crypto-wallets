@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T11:40:33.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vtRd4pdBzJA8ECXj1o9Q" version="24.3.1" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-05-10T11:41:56.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6ncXHQ3-Hi0Dutu2Gt7v" version="24.3.1" type="github" pages="26">
   <diagram id="nCkgWFycRncuvvvVkoT1" name="asymmetric-key">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5195,7 +5195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jj9INBubgkcyNQYmeHlx" name="fault-tree-analysis">
-    <mxGraphModel dx="6576" dy="-1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7370" dy="-1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5387,9 +5387,6 @@
         </mxCell>
         <mxCell id="gIb3RK2opUy6QudwycTP-234" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;Coldboot&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;fontSize=28;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1909" y="3991" width="179" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="gIb3RK2opUy6QudwycTP-235" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;Shoulder-surfing&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;fontSize=27;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-975" y="3991" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gIb3RK2opUy6QudwycTP-236" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;Network Packet Sniffer&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;fontSize=31;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2717" y="4310" width="220" height="140" as="geometry" />
@@ -5930,6 +5927,9 @@
             <mxPoint x="-700" y="3971.1111653645835" as="sourcePoint" />
             <mxPoint x="-710" y="3920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gIb3RK2opUy6QudwycTP-235" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;Shoulder-surfing&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;fontSize=27;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-975" y="3991" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
