@@ -18,7 +18,7 @@
 1. **incidents.csv** (84 events, 2012-2025)  
    Quantifies \$6.98 B of confirmed wallet/exchange losses.
 
-2. **vuln_threats.csv** (33 vulnerabilities, 2009-2024)  
+2. **vuln_threats.csv** (36 vulnerabilities, 2009-2025)  
    Maps wallet design to vulnerabilities and threats.
 
 ## Citation
