@@ -1,6 +1,6 @@
 # Coding Methodology & Reproducibility
 
-This folder documents the **data processing and analysis steps** used to generate all results for  
+This folder documents the data processing and analysis steps used to generate all results for  
 **SoK: Design, Vulnerabilities, and Security Measures of Cryptocurrency Wallets**.
 
 ---
@@ -8,10 +8,9 @@ This folder documents the **data processing and analysis steps** used to generat
 ## 1. Overview
 
 All datasets, code, and figures needed for reproducibility are included.  
-Analysis is performed in Python (≥3.9) using Jupyter notebooks.
 
 - Datasets: `/data/`
-- Main notebook: `incidents_timeline.ipynb`
+- Main notebook: `incidents_timeline.ipynb`  
 - Output figures: `/assets/`
 
 ---
