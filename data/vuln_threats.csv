@@ -1,0 +1,34 @@
+Name,Category,Source,Reference,Description
+Bitcoin Core,Inadequate Encryption,CVE-2019-15947,https://nvd.nist.gov/vuln/detail/CVE-2019-15947,Improper encryption implementation allowed potential key exposure.
+Bitcoin Core,Insecure Network,CVE-2018-17144,https://nvd.nist.gov/vuln/detail/CVE-2018-17144,Remote DoS via specially-crafted double-spend blocks.
+Bitcoin Core,Sig. Verif. Logic Flaw,CVE-2020-14199,https://nvd.nist.gov/vuln/detail/CVE-2020-14199,Signature verification bypass through malleability edge-case.
+Electrum,Inadequate Authentication,CVE-2018-1000022,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000022,"Electrum wallet JSONRPC interface lacked authentication (CVE-2018-1000022), allowing remote attackers to execute arbitrary commands and steal funds."
+Trezor,Side-channel Leakage,CVE-2019-14353,https://nvd.nist.gov/vuln/detail/CVE-2019-14353,Power-analysis attack leaked PIN/key data.
+Trezor,Data Remanence,Grey Literature,https://blog.trezor.io/fixing-physical-memory-access-issue-in-trezor-2b9b46bb4522,Cold-boot attack retrieved seed from SRAM remnants.
+Trezor,Data Manipulation,Grey Literature,https://medium.com/@Zero404Cool/frozen-trezor-data-remanence-attacks-de4d70c9ee8c,Frozen-SRAM glitch let attacker alter seed words in place.
+Trezor,Recovery Logic Flaw,CVE-2020-15302,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15302,Improper seed-recovery flow enabled key overwrite.
+Trezor,Predictable RNG,CVE-2023-31290,https://nvd.nist.gov/vuln/detail/CVE-2023-31290,Weak entropy in key-generation under certain boot modes.
+Ledger,Library Vulnerability,Grey Literature,https://blog.ledger.com/security-incident-report/,Out-of-date third-party crypto libs with known flaws.
+Ledger,Side-channel Leakage,CVE-2019-14354,https://nvd.nist.gov/vuln/detail/CVE-2019-14354,Glitching attack bypassed PIN verification.
+Ledger,Provider Compromise,Grey Literature,https://blog.ledger.com/security-incident-report/,Ledger Connect Kit NPM package compromise in Dec 2023—attacker gained access to Ledger’s npm account and published a malicious version that could steal seed phrases when integrated by dApps.
+MetaMask,Insecure Permission,CVE-2022-32969,https://www.cvedetails.com/cve/CVE-2022-32969/,Improper DApp permission handling exposed private data.
+Exodus,Insecure Interactions,Grey Literature,https://www.thodex.com/exodus-wallets-vulnerable-to-sophisticated-macos-malware/,macOS malware chained to inject malicious transactions.
+Trust Wallet,Insecure Permission,Grey Literature,https://halborn.com/blog/post/halborn-research-vulnerabilities-wallet-permissions,Improper permission on wallet-core exposed signing.
+Argent,Inadequate Authentication,Grey Literature,https://blog.openzeppelin.com/backdooring-gnosis-safe-multisig-wallets,Guardian mechanism bypass allowed rogue recovery.
+Argent,Input Validation Logic Flaw,Grey Literature,https://medium.com/immunefi/two-novel-crypto-wallet-exploits-explained-98e74e50d13f,Improper address-sanity check enabled fund drain.
+Safe (Gnosis),Inadequate Authentication,Grey Literature,https://blog.openzeppelin.com/backdooring-gnosis-safe-multisig-wallets,Backdoor via malleable contract init parameters.
+Safe (Gnosis),Input Validation Logic Flaw,Grey Literature,https://medium.com/immunefi/two-novel-crypto-wallet-exploits-explained-98e74e50d13f,Unchecked call-data length triggered arbitrary exec.
+Atomic Wallet,Inadequate Encryption,CVE-2020-12118,https://nvd.nist.gov/vuln/detail/CVE-2020-12118,Weak AES key-wrap implementation in backup export.
+Zengo,Insecure Interactions,Grey Literature,https://zengo.com/zengo-uncovers-security-vulnerabilities-in-popular-web3-transaction-simulation-solutions-the-red-pill-attack/,Red-Pill simulation attack front-runs approvals.
+Coinbase Wallet,Insecure Interactions,Grey Literature,https://medium.com/@slowmistteam/metamask-clickjacking-vulnerability-analysis-f3e7c22ff4d9,"Clickjacking vulnerability affecting multiple browser-extension wallets, including Coinbase Wallet, allowed phishing sites to trick users into approving malicious transactions."
+Biconomy,Sig. Verif. Logic Flaw,Grey Literature,https://medium.com/chainlight/patch-thursday-account-abstraction-security-guide-c348cc5e36ee,Chainlight disclosed a signature verification bypass in Biconomy SmartAccount contracts that allowed crafted transactions to execute without a valid user signature.
+Web3Auth,Insecure Permission,Grey Literature,https://halborn.com/blog/post/halborn-research-vulnerabilities-wallet-permissions,Session key storage lacked proper OS-level isolation.
+Brave Wallet,Sig. Verif. Logic Flaw,Grey Literature,https://www.fireblocks.com/blog/lindell17-abort-vulnerability-technical-report,Lindell17 abort bug impacted MPC backup flow.
+Brave Wallet,Inadequate Encryption,CVE-2019-15947,https://nvd.nist.gov/vuln/detail/CVE-2019-15947,Legacy PGP component used weak CBC mode.
+Phantom,Provider Compromise,Grey Literature,https://cointelegraph.com/news/slope-wallets-blamed-for-solana-based-wallet-attack,Shared backend leak exposed user keys.
+Phantom,Inadequate Authentication,Grey Literature,https://blog.openzeppelin.com/backdooring-gnosis-safe-multisig-wallets,Insufficient approval reset after account import.
+Slope,Provider Compromise,Grey Literature,https://cointelegraph.com/news/slope-wallets-blamed-for-solana-based-wallet-attack,Plain text seed telemetry to centralized server.
+Slope,Insecure Interactions,Grey Literature,https://cointelegraph.com/news/slope-wallets-blamed-for-solana-based-wallet-attack,"July 2022 Solana wallet drain traced to Slope—wallet’s mobile app transmitted plaintext seed phrases to centralized telemetry servers, enabling mass phishing & account takeover."
+Binance Web3 Wallet,Insecure Interactions,Grey Literature,https://www.binance.com/en/blog/security/web3-wallet-security-risks-of-message-signatures-14545618347818,Binance disclosed social‑engineering attacks in which malicious dApps abused message‑signature prompts to trick Web3 Wallet users into authorizing asset transfers; mitigation guidance issued.
+TON Space Wallet,Library Vulnerability,Grey Literature,https://socket.dev/blog/ton-wallet-security-threat-malicious-npm-package-steals-cryptocurrency-wallet-keys,Malicious npm package '@ton-wallet/create' captured mnemonic phrases; supply-chain library compromise.
+TON Space Wallet,Insecure Interactions,Grey Literature,https://exvul.com/blog/telegram-wallet-phishing-scams-2024,"Phishing scams impersonated TON Space interface, tricking users into signing malicious transactions."
