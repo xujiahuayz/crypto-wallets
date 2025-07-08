@@ -7,10 +7,9 @@
 │   └── vuln_threats.csv         # 33 wallet-specific design vulnerabilities
 ├── notebooks/
 │   ├── incidents_timeline.ipynb   # Exploratory analysis & design notes
-│   ├── make_timeline.py          # Pure-python build of Figure 3
 │   └── README.md                 # In-depth methodology walk-through
 ├── assets/
-│   └── Timeline_of_Wallet_Hacks.pdf  # Pre-built figure (auto-generated)
+│   └──  # a list of figures generated in the paper
 └── README.md                     # ← You are here
 ```
 
