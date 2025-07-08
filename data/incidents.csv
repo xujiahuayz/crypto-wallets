@@ -1,0 +1,86 @@
+Name,Date,Funds Lost,Category,Custody,Method,Additional Detail,Latex Reference,Reference
+ByBit,21/02/2025,1500000000,Application,Custodial,Logic Exploitation,"Contract Logic, Malware and Phishing",,Halborn
+US Govt.,25/10/2024,"50,000,000.00",Unknown,Custodial,Unknown,,,Decrypt
+BigX,20/09/2024,"52,000,000.00",Unknown,Custodial,Unknown,,,Halborn
+Indodax,11/09/2024,"22,000,000.00",Unknown,Custodial,Unknown,,,Coindesk
+WazirX,18/07/2024,"235,000,000.00",Application,Custodial,Logic Exploitation,Contract Logic,,Halborn
+Bittensor,02/07/2024,"8,000,000.00",Application,Non-Custodial,Malware,Malicious Package,,Halborn
+BTCTurk,23/06/2024,"55,000,000.00",Unknown,Custodial,Unknown,Unknown,,Halborn
+Loopring,09/06/2024,"5,000,000.00",Authentication,Non-Custodial,Logic Exploitation,Social Recovery Bypass,,Halborn
+Lykke,04/06/2024,"22,000,000.00",Unknown,Custodial,Unknown,Unknown,,CoinTelegraph
+DMM Bitcoin,31/05/2024,"305,000,000.00",Unknown,Custodial,Unknown,Unknown,,Halborn
+Axie Infinity CF,23/02/2024,"10,000,000.00",Unknown,Non-Custodial,Unknown,Unknown,,Decrypt
+FixedFloat,16/02/2024,"26,100,000.00",Unknown,Custodial,Unknown,Unknown,,Halborn
+kirilm.eth,16/02/2024,"5,100,000.00",Application,Non-Custodial,Phishing,,,Halborn
+Ripple CEO,30/01/2024,"112,500,000.00",Unknown,Non-Custodial,Unknown,Unknown,,CryptoSlate
+HTX (Huobi),22/11/2023,"13,600,000.00",Authentication,Custodial,Undetailed Private Key Compromised,Hot Wallet Attack,\cite{hecobridge},Explained EtherScan Source CoinTelegraph
+Pink Drainer (Scam as a Service Malware),16/11/2023,"12,000,000.00",Application,Non-Custodial,Malware,Mlaware and Phishing ,,Report Rekt
+Monkey Dariner (Scam as a service tool),16/11/2023,"16,000,000.00",Application,Non-Custodial,Malware,Mlaware and Phishing ,,Stat Rekt
+Venom Drainer,16/11/2023,"27,000,000.00",Application,Non-Custodial,Malware,Mlaware and Phishing ,,Stat Rekt
+Infarno,16/11/2023,"66,000,000.00",Application,Non-Custodial,Malware,Mlaware and Phishing ,,Stat Rekt
+Poloniex,10/11/2023,"126,000,000.00",Authentication,Custodial,Undetailed Private Key Compromised,Private Key Leakage,,Source Rekt X
+Lastpass,31/10/2023,"37,000,000.00",Authentication,Non-Custodial,Unknown,Third Party Breach,,Rekt
+Fantom Foundation Wallets,18/10/2023,"7,000,000.00",Unknown,Non-Custodial,Unknown,Hot Wallet attack,,Source
+HTX (Huobi),25/09/2023,"8,000,000.00",Application,Custodial,Phishing,Social Engineering,,CoinMarketCap Twitterr 2 Twitter 1
+Fake voucher scam,20/09/2023,"4,500,000.00",Application,Non-Custodial,Phishing,Social Engineering,,Source etherscan Rekt
+Remitano,15/09/2023,"2,700,000.00",Application,Custodial,Unknown,Third Party Data Breach,,Rekt
+CoinEx,12/09/2023,"55,000,000.00",Unknown,Custodial,Undetailed Private Key Compromised,-,,CoinDesk CoinTelegraph Asset List
+Monero Community Wallet,01/09/2023,"500,000.00",Unknown,Non-Custodial,Unknown,Third Party Data Breach,,source
+AlphaPo,23/06/2023,"60,000,000.00",Unknown,Custodial,Undetailed Private Key Compromised,-,,Rekt Asset List
+Atomic Wallet,03/06/2023,"100,000,000.00",Unknown,Non-Custodial,Unknown,Unknown,,CoinDesk
+Bitrue,14/04/2023,"23,000,000.00",Unknown,Custodial,Undetailed Private Key Compromised,-,,Source etherscan
+GDAC,09/04/2023,"13,000,000",Unknown,Custodial,Undetailed Private Key Compromised,-,,CoinTelegraph
+MyAlgo,27/02/2023,"9,200,000.00",Unknown,Non-Custodial,Unknown,Unknown,,CoinTelegraph
+BitKeep,26/12/2022,"8,000,000.00",Application,Non-Custodial,Malware,Mlaware -- Phishing ,,Source cointelegraph
+FTX,12/11/2022,"450,000,000",Authentication,Custodial,Sim Swap Attack,-,,"CoinDesl 
+https://www.scorechain.com/blog/scorechain-investigates-the-ftx-hack"
+Deribit,01/11/2022,"28,000,000.00",Application,Custodial,Unknown,Server Exploit,,CoinDesk
+Wintermute,20/09/2022,"160,000,000.00",Authentication,Custodial,Brute force,-,,Source
+Slope,02/08/2022,"8,000,000",Authentication,Non-Custodial,Bug Exploitation,Server Exploit,,Source
+MetaMask,17/04/2022,"650,000.00",Authentication,Non-Custodial,Phishing,iCloud hack,,source
+Crypto.com,17/01/2022,"30,000,000",Authentication,Custodial,Unknown,2FA bypass from vulnerability,,TechCruch Halborn
+Lympo,10/01/2022,"18,700,000",Unknown,Custodial,Unknown,-,,Coin Telegraph
+LCX,08/01/2022,"8,000,000.00",Unknown,Custodial,Undetailed Private Key Compromised,-,,Source Hacken
+Vulcan Forged,13/12/2021,"140,000,000",Application,Non-Custodial,Undetailed Private Key Compromised,-,,CoinDesk
+BitMart,05/12/2021,"196,000,000",Application,Custodial,Phishing,-,,CoinDesk List of Assets
+Liquid,19/08/2021,"90,000,000",Application,Custodial,Undetailed Private Key Compromised,Warm Wallet Attack,,Source
+Roll,14/03/2021,"5,700,000.00",Application,Custodial,Undetailed Private Key Compromised,-,,Source
+Metamask,14/12/2020,"8,000,000",Unknown,Non-Custodial,Unknown,System Exploit,,https://www.halborn.com/blog/post/explained-nexus-mutual-ceo-hacked-for-8-million-in-cryptocurrency-dec-2020
+KuCoin,25/09/2020,"275,000,000",Application,Custodial,Undetailed Private Key Compromised,-,,ChainAnalysis
+Cashaa,11/07/2020,"3,100,000",Application,Custodial,Malware,-,,Coin Telegraph
+Trinity Wallet,12/02/2020,"2,300,000.00",Application,Non-Custodial,Unknown,Third Party Data Breach,,Source
+Altsbit,05/02/2020,"72,500,000",Application,Custodial,Unknown,-,,List of asset CoinDesk
+Upbit,26/11/2019,"49,000,000",Application,Custodial,Malware,Mlaware -- Phishing ,,"Medium https://medium.com/web3coda/breaking-down-the-upbit-heist-everything-you-need-to-know-556617c31c22#:~:text=How%20Was%20the%20Upbit%20Hack,the%20trading%20of%20this%20cryptocurrency"
+Bitpoint,11/07/2019,"36,500,000",Unknown,Custodial,Unknown,-,,Source list of assets
+Vindax,05/11/2019,"500,000",Unknown,Custodial,Unknown,Wallet Infrastrcuture Vulnerability,,
+Bitrue,27/06/2019,"4,500,000",Authentication,Custodial,Unknown,2FA bypass from infrastructural vulnerability,,CoinDesk source
+Gatehub,06/06/2019,"9,500,000",Unknown,Custodial,Unknown,Ledger API Vulnerability,,source CoinTelegraph
+Binance,07/05/2019,"40,000,000",Authentication,Custodial,Unknown,2FA bypass from infrastructural vulnerability,,CoinDesk
+Bithumb,29/03/2019,"29,000,000",Authentication,Custodial,Insider Job,Server exploitation,,coindesk source
+Coinbene,25/03/2019,"99,000,000",Unknown,Custodial,Unknown,-,,cointelegraph
+DragonEX,24/03/2019,"1,000,000",Application,Custodial,Unknown,API vulnerability ,,coindesk source
+Cryptopia,01/02/2019,"16,000,000",Unknown,Custodial,Undetailed Private Key Compromised,Hot Wallet Attack,,Hacken
+LocalBitcoins,26/01/2019,"27,000",Application,Custodial,Phishing,2FA phishing,,source
+Electrum,21/12/2018,"750,000",Application,Non-Custodial,Phishing,Server exploitation,,source
+Maplechange,28/10/2018,"6,000,000",Unknown,Custodial,Unknown,-,,source
+Zaif,14/09/2018,"100,000,000",Unknown,Custodial,Unknown,-,,coindesk
+Coinrail,10/06/2018,"40,000,000",Unknown,Custodial,Unknown,-,,coindesk
+MyEtherWallet,24/04/2018,"150,000",Network,Non-Custodial,DNS Spoofing,Network Vulnerability,,Source
+Gate.io,18/04/2018,"234,000,000.00",Unknown,Custodial,Unknown,Cold wallet exploited,,Source source
+CoinSecure,13/04/2018,"3,500,000",Authentication,Custodial,Insider Job,Rugpull,,CoinDesk coindesk2
+Bitgrail,10/02/2018,"146,000,000",Authentication,Custodial,Insider Job,Rugpull,,Source
+CoinCheck,27/01/2018,"560,000,000",Unknown,Custodial,Unknown,-,,coindesk source
+BlackWallet,15/01/2018,"400,000",Network,Non-Custodial,DNS Spoofing,,,
+EtherDelta,20/12/2017,"1,400,000",Network,Custodial,DNS Spoofing,Network Vulnerability,,CCN
+Yapizon,22/04/2017,"5,300,000",Unknown,Custodial,Unknown,-,,cointelegraph CCN
+Bitfinex,02/08/2016,"623,000,000",Application,Custodial,Unknown,-,,coindesk
+Gatecoin,09/05/2016,"2,140,000",Unknown,Custodial,Unknown,-,,coindesk
+Shapeshift,07/04/2016,"230,000",Authentication ,Custodial,Insider Job,-,,source
+Bitstamp,11/12/2015,"5,000,000",Application,Custodial,Phishing,Social Engineering,,coindesk
+BTER,15/08/2015,"1,650,000",Application,Custodial,Unknown,Website Exploitation,,coindesk
+Mintpal,13/07/2014,"2,000,000",Authentication ,Custodial,Insider Job,Rugpull,,source
+Poloniex,04/03/2014,"50,000",Application,Custodial,Unknown,Website Exploitation,,coindesk
+Mt. Gox,24/02/2014,"460,000,000",Authentication ,Custodial,Unknown,Server Exploit,,source
+Bitcash,11/11/2013,"100,000",Application,Custodial,Phishing,Social Engineering,,coindesk
+Bitfloor,12/09/2012,"250,000",Application,Custodial,Undetailed Private Key Compromised,-,,source
+Bitcoinica,01/03/2012,"90,000",Application,Custodial,Undetailed Private Key Compromised,-,,source
