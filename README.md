@@ -12,7 +12,7 @@
 ├── assets/
 │   └── Timeline_of_Wallet_Hacks.pdf  # Pre-built figure (auto-generated)
 └── README.md                     # ← You are here
-```                ← close the fenced code block here
+```
 
 ## Datasets
 
