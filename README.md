@@ -3,7 +3,7 @@
 ## Repository Structure
 ```bash
 ├── data/
-│   ├── incidents.csv            # 2012-2025 real-world loss events (84 rows)
+│   ├── incidents.csv            # 2012-2025 real-world loss events (85 rows)
 │   └── vuln_threats.csv         # 33 wallet-specific design vulnerabilities
 ├── notebooks/
 │   ├── incidents_timeline.ipynb   # Exploratory analysis & design notes
@@ -15,7 +15,7 @@
 
 ## Datasets
 
-1. **incidents.csv** (84 events, 2012-2025)  
+1. **incidents.csv** (85 events, 2012-2025)  
    Quantifies \$6.98 B of confirmed wallet/exchange losses.
 
 2. **vuln_threats.csv** (36 vulnerabilities, 2009-2025)  
